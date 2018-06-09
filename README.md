@@ -13,7 +13,7 @@
 	cd Python_sdk
 	python setup.py install
 
-3.在http://open.youtu.qq.com/创建应用，得到下面的参数，详情看Ai文件。
+3.在http://open.youtu.qq.com创建应用，得到下面的参数，详情看Ai文件。
 
 # 二.adb配置
 
